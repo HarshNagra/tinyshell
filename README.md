@@ -1,5 +1,5 @@
 # tinyshell
- Command Line Interpreter
+ Command Line Interpreter - 
  A small shell-like program in C++ that uses some concepts of child processes.
  
 ### Functions- 
